@@ -29,8 +29,6 @@
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 ### 🤖 Emotion-Aware Learning System
 An intelligent web-based learning platform that adapts content based on user emotions to enhance the learning experience.  
 **Tech Used:** React, PHP, MySQL  
